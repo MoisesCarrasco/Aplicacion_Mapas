@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.fragment.app.FragmentContainerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_height="match_parent"
+    map:cameraBearing="30"
+    map:cameraTargetLat="17.02027649023039"
+    map:cameraTargetLng="-96.76432534755293"
+    map:cameraTilt="20"
+    map:cameraZoom="15"
+    map:mapType="hybrid"
+    map:uiCompass="true"
+    map:uiRotateGestures="true"
+    map:uiScrollGestures="true"
+    map:uiTiltGestures="true"
+    map:uiZoomControls="true"
+    map:uiZoomGestures="true"
+    tools:context=".MapasMovilesAI8A"  android:layout_width="480dp"/>
+
+
+
